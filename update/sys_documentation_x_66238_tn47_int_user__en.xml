@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="" label="INT User" language="en" table="x_66238_tn47_int_user">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
@@ -12,7 +11,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-01-30 22:47:04</sys_created_on>
-            <sys_id>fa385aa00fc013007500cbdce1050ecb</sys_id>
+            <sys_id>bc6ec937db5133005c68fbef29961933</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>INT User</sys_name>
             <sys_package display_value="TN47" source="x_66238_tn47">c897da600fc013007500cbdce1050ef1</sys_package>
