@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="RP Request" max_length="40" name="x_66238_tn47_rp" type="collection">
         <element choice="1" label="Action" max_length="40" name="action" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="Give 'em a cookie" sequence="10" value="Give 'em a cookie"/>
+                <element inactive_on_update="false" label="Tie him up" sequence="20" value="Tie him up"/>
+                <element inactive_on_update="false" label="BURN 'EM!" sequence="30" value="BURN 'EM!"/>
+            </choice>
         </element>
         <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
         <element label="Date" max_length="40" name="date" type="glide_date"/>
